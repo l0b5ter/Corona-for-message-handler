@@ -8,7 +8,5 @@ Last-modified: 09.05.2020
 Made by: lobster/loster31345 from WiAD  
 
 
-![hide](https://github.com/l0b5ter/Corona-for-Message-Handler/blob/master/Corona%20images/ps2statspc.PNG)
-![hide](https://github.com/l0b5ter/Corona-for-Message-Handler/blob/master/Corona%20images/ps2statseu.PNG)
-![hide](https://github.com/l0b5ter/Corona-for-Message-Handler/blob/master/Corona%20images/ps2statsus.PNG)
-![hide](https://github.com/l0b5ter/Corona-for-Message-Handler/blob/master/Corona%20images/ps2statso.PNG)
+![hide](https://github.com/l0b5ter/Corona-for-Message-Handler/blob/master/Corona%20images/2.PNG)
+![hide](https://github.com/l0b5ter/Corona-for-Message-Handler/blob/master/Corona%20images/21.PNG)
